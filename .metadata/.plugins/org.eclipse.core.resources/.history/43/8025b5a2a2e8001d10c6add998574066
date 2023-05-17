@@ -1,0 +1,16 @@
+package com.call;
+
+import org.openqa.selenium.By;
+import org.testng.annotations.Test;
+
+import com.Base.LaunchApp;
+
+public class GoogleApp extends LaunchApp {
+	LaunchApp l1;
+	@Test
+	public void type() {
+		l1=new LaunchApp();
+		l1.lapp();
+		driver.findElement(By.xpath("//textarea[@id='APjFqb']")).sendKeys("Mantesh");
+	}
+}

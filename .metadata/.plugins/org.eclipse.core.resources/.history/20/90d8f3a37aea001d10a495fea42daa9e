@@ -1,0 +1,22 @@
+package com.polymorphism;
+
+class A {
+	void show() {
+		System.out.println("1");
+	}
+}
+
+class B extends A {
+	void show() {
+		System.out.println("2");
+	}
+	void display() {
+		super.show();
+	}
+}
+	public class Overidding{
+		public static void main(String args[]) {
+			B b1 = new B();
+			b1.display();
+		}
+	}

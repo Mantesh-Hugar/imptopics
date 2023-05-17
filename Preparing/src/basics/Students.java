@@ -1,0 +1,66 @@
+package basics;
+
+//public class Students {
+//
+//	String name;
+//	int age;
+//	float per;
+//	
+//	public Students(String sname,int sage,float sper) {
+//		name=sname;
+//		age=sage;
+//		per=sper;
+//		
+//	}
+//	public static void main(String[] args) {
+//		Students s1 = new Students("Mantesh",24,65.5f);
+//		System.out.println(s1.name+" "+s1.age+" "+s1.per);
+//		
+//		Students s2 = new Students("Aman",26,88.5f);
+//		System.out.println(s2.name+" "+s2.age+" "+s2.per);
+//		
+//		Students s3 = new Students("Amnil",28,89.5f);
+//		System.out.println(s3.name+" "+s3.age+" "+s3.per);
+//	}
+//
+//}
+
+
+//public class Students{
+//	String name;
+//	int age;
+//	String company;
+//	
+//	public Students(String ename,int eage,String ecompany) {
+//		name=ename;
+//		age=eage;
+//		company=ecompany;
+//	}
+//	
+//	public void details() {
+//		System.out.print(name+" ");
+//		System.out.print(age+" ");
+//		System.out.println(company);
+//	}
+//	
+//	public static void main(String args[]) {
+//		Students s1 = new Students("Dinesh",23, "Tech M");
+//		s1.details();
+//	}
+//}
+
+
+public class Students
+{
+public static void details(String name,int age,String area)
+{
+System.out.println("Name of the employee "+name);
+System.out.println("Age of the employee "+age);
+System.out.println("Location of the employee "+area);
+} 
+
+public static void main(String args[])
+{
+details("Mantesh",24,"Hyd");
+}
+}

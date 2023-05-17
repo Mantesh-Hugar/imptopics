@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.OopsConcept.MobileUser&apos; to &apos;MobileUser_Encapsulation&apos;&#x0D;&#x0A;- Original project: &apos;JavaTopics&apos;&#x0D;&#x0A;- Original element: &apos;com.OopsConcept.MobileUser&apos;&#x0D;&#x0A;- Renamed element: &apos;com.OopsConcept.MobileUser_Encapsulation&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MobileUser&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.OopsConcept{MobileUser.java[MobileUser" matchStrategy="1" name="MobileUser_Encapsulation" qualified="false" references="true" similarDeclarations="false" stamp="1674351162328" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IndexPageTest.java&apos; to &apos;MStoreProject/src/test/java/com.Mystore.testscripts&apos;&#x0D;&#x0A;- Original project: &apos;MyStoreProject&apos;&#x0D;&#x0A;- Destination element: &apos;MStoreProject/src/test/java/com.Mystore.testscripts&apos;&#x0D;&#x0A;- Original element: &apos;com.mystore.testcases.IndexPageTest.java&apos;" description="Copy compilation unit" destination="=MStoreProject/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.Mystore.testscripts" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.mystore.testcases{IndexPageTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1666001190412" units="1" version="1.0"/>
+</session>

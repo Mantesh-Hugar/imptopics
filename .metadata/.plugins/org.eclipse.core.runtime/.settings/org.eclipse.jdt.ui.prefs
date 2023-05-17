@@ -1,0 +1,13 @@
+content_assist_favorite_static_members=org.junit.Assert.*;org.junit.Assume.*;org.junit.jupiter.api.Assertions.*;org.junit.jupiter.api.Assumptions.*;org.junit.jupiter.api.DynamicContainer.*;org.junit.jupiter.api.DynamicTest.*;org.mockito.ArgumentMatchers.*;org.mockito.Mockito.*;org.assertj.core.api.Assertions.*;org.testng.Assert.*
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.openqa.selenium.SearchContext"><rhs name\="org.openqa.selenium.firefox.FirefoxDriver"/><rhs name\="org.openqa.selenium.ie.InternetExplorerDriver"/><rhs name\="org.openqa.selenium.chrome.ChromeDriver"/></lhs><lhs name\="org.openqa.selenium.WebDriver"><rhs name\="org.openqa.selenium.firefox.FirefoxDriver"/><rhs name\="org.openqa.selenium.ie.InternetExplorerDriver"/><rhs name\="org.openqa.selenium.chrome.ChromeDriver"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="java.sql.SQLException"><rhs name\="java.sql.SQLException"/></lhs><lhs name\="com.JavaCollections.LinkedHashSet"><rhs name\="com.JavaCollections.LinkedHashSet"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.util.AbstractMap"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.util.HashMap"><rhs name\="java.util.HashMap"/></lhs><lhs name\="com.MapInterface.HashTable"><rhs name\="com.MapInterface.HashTable"/></lhs><lhs name\="com.Base.LaunchApp"><rhs name\="com.Base.LaunchApp"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
